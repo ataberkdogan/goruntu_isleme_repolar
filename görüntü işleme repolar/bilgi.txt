@@ -1,0 +1,7 @@
+-image-processing-main --https://github.com/YeowKinRen/image-processing 
+-Digital-Image-Processing-master  --https://github.com/Seyed-Ali-Ahmadi/Digital-Image-Processing/tree/master
+-imageprocessing_course_icmc-master  --https://github.com/maponti/imageprocessing_course_icmc/tree/master
+
+
+klasörlerin içindeki word dosyalarında kodların hangisinin çalişip çalalişmadiği düzeltme oldu ise 
+orada o dasyadan hangi düzeltme yapıldiği hakkında bilgi verildi.
